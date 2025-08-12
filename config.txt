@@ -1,0 +1,10 @@
+git config --global user.name gomenrik
+git config --global user.email campanhahenrique13@gmail.com
+
+-- Criar uma aplicação .net MVC
+dotnet new mvc -o GranStore
+
+-- Executar projeto
+cd GranStore
+dotnet watch run
+
