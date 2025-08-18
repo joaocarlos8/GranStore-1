@@ -24,7 +24,7 @@ public class HomeController : Controller
         {
             new Produto {
             Id = 1,
-            Categoria = categorias[1],
+            Categoria = categorias[0],
             Nome = "Pulsar ZywOo",
             Descricao = "Lorem Ipsum",
             ValorCusto = 1649.90m,
@@ -34,7 +34,7 @@ public class HomeController : Controller
         },
             new Produto {
             Id = 2,
-            Categoria = categorias[1],
+            Categoria = categorias[0],
             Nome = "Finalmouse ULX Prophecy Small",
             Descricao = "Lorem Ipsum",
             ValorCusto = 2199.90m,
@@ -44,7 +44,7 @@ public class HomeController : Controller
         },
             new Produto {
             Id = 3,
-            Categoria = categorias[1],
+            Categoria = categorias[0],
             Nome = "Viper V3 PRO",
             Descricao = "Lorem Ipsum",
             ValorCusto = 1899.90m,
@@ -54,7 +54,7 @@ public class HomeController : Controller
         },
             new Produto {
             Id = 4,
-            Categoria = categorias[1],
+            Categoria = categorias[0],
             Nome = "Endgame Gear OP1w 4K v2",
             Descricao = "Lorem Ipsum",
             ValorCusto = 1099.90m,
@@ -64,7 +64,7 @@ public class HomeController : Controller
         },
           new Produto {
             Id = 5,
-            Categoria = categorias[2],
+            Categoria = categorias[0],
             Nome = "KanamiMinamiGlasspad",
             Descricao = "Lorem Ipsum",
             ValorCusto = 1499.90m,
@@ -74,7 +74,7 @@ public class HomeController : Controller
         },
           new Produto {
             Id = 6,
-            Categoria = categorias[2],
+            Categoria = categorias[0],
             Nome = "Wallhack SP-004",
             Descricao = "Lorem Ipsum",
             ValorCusto = 1299.90m,
@@ -84,7 +84,7 @@ public class HomeController : Controller
         },
           new Produto {
             Id = 7,
-            Categoria = categorias[2],
+            Categoria = categorias[0],
             Nome = "LGG x Pulsar Hyperion XXL",
             Descricao = "Lorem Ipsum",
             ValorCusto = 1199.90m,
@@ -94,7 +94,7 @@ public class HomeController : Controller
         },
           new Produto {
             Id = 8,
-            Categoria = categorias[2],
+            Categoria = categorias[0],
             Nome = "Artisan FX Key-83 XL",
             Descricao = "Lorem Ipsum",
             ValorCusto = 749.90m,
